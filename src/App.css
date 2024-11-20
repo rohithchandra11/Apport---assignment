@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  padding: 20px;
+}
+
+.App-header {
+  background-color: #1e88e5;
+  padding: 20px;
+  color: white;
+  border-bottom: 4px solid #1565c0;
+}
+
+.controls {
+  margin-top: 15px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  align-items: center;
+}
+
+select {
+  padding: 10px;
+  font-size: 14px;
+  border-radius: 8px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+}
+
+select:focus {
+  outline: none;
+  border-color: #1e88e5;
+}

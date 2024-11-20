@@ -1,0 +1,16 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.controls {
+  display: flex;
+  gap: 20px;
+}
